@@ -1,0 +1,1 @@
+geth --datadir=. --ipcpath ~/Library/Ethereum/geth.ipc
